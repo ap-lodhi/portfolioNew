@@ -36,9 +36,9 @@ export const projects = [
     link: "https://lifestylepalteam.netlify.app/",
   },
   {
-    title: "Travelocity.com Clone",
+    title: "Dynamic Photo App",
     subtitle:
-      "TECH STACK: ReactJS | Redux | JavaScript | JSON Server | Google Auth | Material-UI",
+      "TECH STACK: ReactJS | Redux | JavaScript | JSON Server ",
     description:
       "  A simple app which have only two button . on one click we can add photo and we can remove photo . we can add unlimited photos. Developed the entire Application along with all Functionality.",
     responsibility:
