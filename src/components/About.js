@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
-import './About.css'
-
+import "./About.css";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -32,9 +31,13 @@ export default function About() {
                 data-aos="fade-right"
               >
                 <p className="home-about-body" style={{ fontSize: "1.4em" }}>
-                I am a Full Stack Developer, passionate about building digital products that improve the everyday experience for people.
-
-I am a quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.
+                  I am a Full Stack Developer passionate about building digital
+                  products that enhance everyday experiences. With 10 months of
+                  hands-on experience as a .NET developer and core knowledge of
+                  the MERN stack, I am a quick learner and driven to continually
+                  expand my skills. I look forward to applying and further
+                  developing my expertise in creating impactful web
+                  applications.
                 </p>
               </div>
             </div>
@@ -67,7 +70,7 @@ I am a quick learner and an aspiring full-stack web developer with core knowledg
           <img
             className="image-approunded-full rounded-t-half rounded-b-full m-auto rounded-r-full and rounded-l-full border-8 w-2/4  "
             alt="img"
-            src="/anil img (1).png"
+            src="/anil.png"
           />
         </div>
       </div>
