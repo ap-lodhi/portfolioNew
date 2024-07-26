@@ -7,7 +7,8 @@ export const projects = [
     responsibility:
       "Implemented robust search functionalities, including universal and advanced searches (exact, similar, related), added bookmarking for table rows, displayed previous search history, and enabled secure login using organization email.",
     team: " A cooperative Project worked by a group of 3",
-    image: "/ambit.jpg",
+    image:
+      "https://private-user-images.githubusercontent.com/87072168/352228314-f0029b01-ec44-4f78-8087-f6df8a31ac65.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5ODEyNzAsIm5iZiI6MTcyMTk4MDk3MCwicGF0aCI6Ii84NzA3MjE2OC8zNTIyMjgzMTQtZjAwMjliMDEtZWM0NC00Zjc4LTgwODctZjZkZjhhMzFhYzY1LkpQRz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA4MDI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyOWE5NDg1OTQ5YjU2Nzg2NmYxMzQ2MjgyOTdkZWVmODU4NmVlYTExYzY2MTkyMzkwNmExODgzZmMxMjVmNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pWPOK3ef3pNfIP9PNhZvlYCysg4xGIkp8SxSPRJV4BE",
     gitlink: "https://github.com/ap-lodhi/Ambit_CRM",
     link: "https://crmview.ambit.co/",
   },
@@ -19,7 +20,8 @@ export const projects = [
     responsibility:
       "Implemented server-side logic and database interactions using ASP.NET MVC and MySQL.Designed and maintained the database schema to support the application's data requirements.",
     team: " A cooperative Project worked by a group of 5",
-    image: "/cylsys admin.jpg",
+    image:
+      "https://private-user-images.githubusercontent.com/87072168/352450695-557645b5-8ec2-42f3-a893-394716dd579b.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5ODIwNjUsIm5iZiI6MTcyMTk4MTc2NSwicGF0aCI6Ii84NzA3MjE2OC8zNTI0NTA2OTUtNTU3NjQ1YjUtOGVjMi00MmYzLWE4OTMtMzk0NzE2ZGQ1NzliLkpQRz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI2VDA4MTYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwMDQ1MWNlMTUwOTZhNzQ4ZjAyNWEwNWM0ZGYzZDExOWI5NTY1NTNlNDdiYjFiNGVkNWNlNWJkNTE1ODZiYzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.f_d898FZ2RGSFB-fMb_jtuFuCQWzPGE6Ha-4qxjKkn8",
     gitlink: "https://github.com/ap-lodhi/CylsysAdminPanel",
     link: "https://admin.cylsys.com/",
   },
@@ -61,7 +63,7 @@ export const projects = [
     image: "./myFitnesspal.png",
     gitlink: "https://github.com/Ankit-Ankushe/myFitnessPal-Clone",
     link: "https://lifestylepalteam.netlify.app/",
-  }
+  },
   // {
   //   title: "Dynamic Photo App",
   //   subtitle: "TECH STACK: ReactJS | Redux | JavaScript | JSON Server ",
