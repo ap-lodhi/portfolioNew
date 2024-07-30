@@ -49,9 +49,20 @@ export default function About() {
 
           <div className="flex justify-center mt-14" data-aos="fade-up">
             <a
-              href="https://drive.google.com/folderview?id=1f8W2lb84urD-PPPkzUOk8uuqn4Lp7Kvi"
+              href="https://drive.google.com/file/d/1D6074XDBB5WVHaBpaacVP5j09VrtDJGn/view?usp=sharing"
               target="_blank"
               className="inline-flex text-white bg-green-500 border-0 py-3 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+              onClick={(e) => {
+                e.preventDefault(); // Prevent the default action to open the link immediately
+                window.open(
+                  "https://drive.google.com/file/d/1D6074XDBB5WVHaBpaacVP5j09VrtDJGn/view?usp=sharing",
+                  "_blank"
+                ); // Open the link in a new tab
+                setTimeout(() => {
+                  window.location.href =
+                    "https://drive.google.com/uc?export=download&id=1D6074XDBB5WVHaBpaacVP5j09VrtDJGn"; // Trigger the download after opening the link
+                }, 1000); // Adjust the timeout as needed
+              }}
             >
               Resume
             </a>
