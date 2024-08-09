@@ -32,7 +32,7 @@ export default function About() {
               >
                 <p className="home-about-body" style={{ fontSize: "1.4em" }}>
                   I am a Full Stack Developer passionate about building digital
-                  products that enhance everyday experiences. With 10 months of
+                  products that enhance everyday experiences. With 1 Year of
                   hands-on experience as a .NET developer and core knowledge of
                   the MERN stack, I am a quick learner and driven to continually
                   expand my skills. I look forward to applying and further
